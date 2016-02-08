@@ -1,0 +1,8 @@
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\bin\Release\NT Seeding.exe.config
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\bin\Release\NT Seeding.exe
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\bin\Release\NT Seeding.pdb
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\obj\Release\NT_Seeding.Form1.resources
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\obj\Release\NT_Seeding.Properties.Resources.resources
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\obj\Release\NT Seeding.csproj.GenerateResource.Cache
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\obj\Release\NT Seeding.exe
+c:\users\timmy\documents\visual studio 2015\Projects\NT Seeding\NT Seeding\obj\Release\NT Seeding.pdb
